@@ -4,3 +4,4 @@
 
 https://github.com/eloquentarduino/everywhereml
 
+### remove checks for fqdn
